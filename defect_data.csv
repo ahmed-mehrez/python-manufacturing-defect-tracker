@@ -1,0 +1,17 @@
+date,part_number,process,defect_type,severity,quantity_detected,root_cause,status
+2026-01-05,F16-SKIN-102,Lamination,Delamination,High,3,Insufficient bonding pressure,Open
+2026-01-07,F16-BRKT-221,Machining,Dimensional Out of Tolerance,Medium,5,Tool wear,In Review
+2026-01-10,F16-PNL-332,Coating,Surface Contamination,Low,8,Improper cleaning before coating,Closed
+2026-01-14,F16-RIB-114,Fabrication,Crack,High,2,Material handling damage,Open
+2026-01-17,F16-SKIN-102,Lamination,Air Bubble,Medium,6,Incorrect layup technique,Closed
+2026-01-20,F16-BRKT-221,Machining,Burrs,Low,10,Tooling condition,Closed
+2026-01-24,F16-PNL-332,Coating,Uneven Coating,Medium,4,Spray distance variation,In Review
+2026-01-28,F16-RIB-114,Fabrication,Fastener Misalignment,Medium,3,Fixture alignment issue,Open
+2026-02-02,F16-SKIN-204,Lamination,Wrinkle,High,2,Vacuum bagging issue,Open
+2026-02-06,F16-BRKT-402,Machining,Surface Finish,Low,7,Feed rate variation,Closed
+2026-02-11,F16-PNL-119,Coating,Paint Adhesion Failure,High,2,Surface prep issue,In Review
+2026-02-15,F16-RIB-300,Fabrication,Hole Misalignment,Medium,5,Incorrect drill template,Closed
+2026-02-19,F16-SKIN-204,Lamination,Delamination,High,4,Cure cycle variation,Open
+2026-02-23,F16-BRKT-402,Machining,Dimensional Out of Tolerance,Medium,6,Calibration drift,In Review
+2026-02-27,F16-PNL-119,Coating,Surface Contamination,Low,9,Handling contamination,Closed
+2026-03-03,F16-RIB-300,Fabrication,Crack,High,1,Excessive forming stress,Open
